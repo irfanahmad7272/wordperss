@@ -1,0 +1,3 @@
+<a href="http://www.facebook.com/dialog/share?app_id=265677553949085&href=<?php echo get_the_permalink(); ?>&redirect_uri=<?php echo get_the_permalink();?>&display=popup" title="Share on Facebook.">
+                                                  <button class="facebook-button">facebook</button>
+                                              </a>
